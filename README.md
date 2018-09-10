@@ -1,2 +1,2 @@
-# DBMS-Project---MockGithub
+# DBMS Project - MockGithub
 Relational database design of Github
